@@ -1,0 +1,18 @@
+{
+    "name": "pixelbackend",
+    "version": "1.0.0",
+    "description": "",
+    "type": "commonjs",
+    "main": "index.js",
+    "scripts": {
+        "test": "mocha api.spec.js"
+    },
+    "author": "mikhail zerafa",
+    "license": "ISC",
+    "dependencies": {
+        "chai": "^4.3.7",
+        "chai-http": "^4.3.0",
+        "json-evolve": "^21.0.0",
+        "mocha": "^10.2.0"
+    }
+}
