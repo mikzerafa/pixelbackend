@@ -5,7 +5,7 @@
     "type": "commonjs",
     "main": "index.js",
     "scripts": {
-        "test": "mocha api.spec.js"
+        "test": "mocha Tests/*.spec.js"
     },
     "author": "mikhail zerafa",
     "license": "ISC",
